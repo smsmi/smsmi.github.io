@@ -1,2 +1,1 @@
-# index
-sample index markdown file
+index page
